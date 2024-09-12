@@ -1,1 +1,1 @@
-add "node_modules"  client and api folder.
+add "node_modules" in client and api folder.
